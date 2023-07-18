@@ -1,1 +1,3 @@
 hello every one git commands are very importat.....
+
+how are you today and whats going on 

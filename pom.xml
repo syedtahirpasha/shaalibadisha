@@ -214,8 +214,8 @@
   </scm>
 
   <prerequisites>
-  <java.version>11</java.version> 
-    <maven>3.0.3</maven>
+    <maven.compiler.source>11</maven.compiler.source> 
+    <maven.compiler.target>11</maven.compiler.target>
   </prerequisites>
 
 </project>
